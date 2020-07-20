@@ -9,7 +9,7 @@ public class objetsProprietaireDeComptes {
 		
 		thomas.nom = "Martin";
 		thomas.prenom = "Thomas";
-		thomas.age = 12;
+		thomas.age = 13;
 		thomas.soldeCompte = 50000;
 		
 		thomas.calculEligibiliteCC();
